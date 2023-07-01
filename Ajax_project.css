@@ -1,0 +1,15 @@
+#search_box{
+    height:50px;
+    width:300px;
+    border:solid 1px black;
+    float:left;
+    }
+#submit_button{
+    background:#EFEFEF;
+    height:50px;
+    width:150px;
+    border:solid 1px black;
+    color:black;
+        }
+      
+   
